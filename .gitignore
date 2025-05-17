@@ -1,1 +1,6 @@
--e "data/\n*.csv\n.ipynb_checkpoints/" 
+data/
+*.csv
+.ipynb_checkpoints/
+venv/
+__pycache__/
+*.pyc
