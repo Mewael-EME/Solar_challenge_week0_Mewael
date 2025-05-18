@@ -1,11 +1,7 @@
-# My Project
+# Solar Challenge Week 1
 
-## Reproducing the Environment
+## Environment Setup
 
-To set up this Python environment on your local machine:
-
-1. Make sure you have **Python 3.10+** installed.
-
-2. (Optional but recommended) Create and activate a virtual environment:
-
-   **On Windows:**
+1. Clone the repo:
+git  https://github.com/Mewael-EME/Solar_challenge_week0_Mewael.git
+cd Solar_challenge_week0_Mewael
