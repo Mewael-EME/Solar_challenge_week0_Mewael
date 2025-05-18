@@ -1,6 +1,2 @@
-"numpy\npandas" 
-"numpy"
-"pandas"
-"matplotlib"
-"seaborn"
-"scipy"
+numpy
+pandas
