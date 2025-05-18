@@ -1,6 +1,15 @@
-data/
-*.csv
-.ipynb_checkpoints/
+# Virtual environments
 venv/
+
+# Python cache files
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/
+*.c
