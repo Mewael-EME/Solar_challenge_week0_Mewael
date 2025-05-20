@@ -1,15 +1,2 @@
-# Virtual environments
-venv/
-
-# Python cache files
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Data files
+# Ignore data folder
 data/
-*.c
