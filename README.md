@@ -1,3 +1,4 @@
+dashboard-dev
 # Solar Challenge Week 0
 This is my updated README file, including both local and remote updates.
 
@@ -24,5 +25,11 @@ This project includes an interactive Streamlit dashboard to compare solar potent
 ```bash
 pip install -r requirements.txt
 
+# Solar Challenge Week 1
 
+## Environment Setup
 
+1. Clone the repo:
+git  https://github.com/Mewael-EME/Solar_challenge_week0_Mewael.git
+cd Solar_challenge_week0_Mewael
+ setup-task
