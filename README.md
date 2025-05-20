@@ -1,7 +1,19 @@
+main
+HEAD
+# Solar Challenge Week 1
+
+## Environment Setup
+
+1. Clone the repo:
+git  https://github.com/Mewael-EME/Solar_challenge_week0_Mewael.git
+cd Solar_challenge_week0_Mewael
+
+
  compare-countries
 ## How to Run the Cross-Country Comparison
 
 dashboard-dev
+ setup-task
 # Solar Challenge Week 0
 This is my updated README file, including both local and remote updates.
  setup-task
@@ -45,7 +57,11 @@ pip install -r requirements.txt
 
 ## Environment Setup
 
+main
+dashboard-dev
+
 1. Clone the repo:
 git  https://github.com/Mewael-EME/Solar_challenge_week0_Mewael.git
 cd Solar_challenge_week0_Mewael
  setup-task
+
