@@ -1,3 +1,4 @@
+main
 HEAD
 # Virtual environments
 venv/
@@ -18,3 +19,25 @@ data/
 # Ignore data folder
 data/
  dashboard-dev
+
+ dashboard-dev
+# Ignore data folder
+data/
+
+# Virtual environments
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/
+*.c
+ setup-task
+setup-task
