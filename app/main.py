@@ -3,7 +3,8 @@ import streamlit as st
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-from app.utils import load_data, plot_boxplot, get_summary_table, get_avg_ghi_ranking
+from utils import load_data, plot_boxplot, get_summary_table, get_avg_ghi_ranking
+
 
 st.set_page_config(page_title="Solar Data Dashboard", layout="wide")
 

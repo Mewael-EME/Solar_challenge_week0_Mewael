@@ -12,4 +12,17 @@ To set up this Python environment on your local machine:
 
 2. Create and activate a virtual environment:
 
+## Streamlit Dashboard
+
+This project includes an interactive Streamlit dashboard to compare solar potential across countries.
+
+### Installation
+
+1. Make sure you have Python installed (recommended Python 3.8+).
+2. Install required dependencies:
+
+```bash
+pip install -r requirements.txt
+
+
 
